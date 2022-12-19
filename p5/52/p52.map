@@ -1,0 +1,58 @@
+MPLINK 4.37, Linker
+Linker Map File - Created Tue Nov 09 06:48:26 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000005    program   0x0000ae
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000005    0x00005b      
+            88 out of 8453 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  ESTADO0   0x000024    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  ESTADO1   0x000026    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  ESTADO2   0x000038    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  ESTADO3   0x000049    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  ESTADO4   0x00004c    program     static C:\Users\suxo\Desktop\52\p52.asm
+                   INICIO   0x000005    program     static C:\Users\suxo\Desktop\52\p52.asm
+                     LOOP   0x000010    program     static C:\Users\suxo\Desktop\52\p52.asm
+            LOOP_ESTADO_1   0x000029    program     static C:\Users\suxo\Desktop\52\p52.asm
+            LOOP_ESTADO_2   0x00003b    program     static C:\Users\suxo\Desktop\52\p52.asm
+                      dos   0x000053    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  retardo   0x00004f    program     static C:\Users\suxo\Desktop\52\p52.asm
+                     tres   0x000051    program     static C:\Users\suxo\Desktop\52\p52.asm
+                      uno   0x000055    program     static C:\Users\suxo\Desktop\52\p52.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\suxo\Desktop\52\p52.asm
+                     LOOP   0x000010    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  ESTADO0   0x000024    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  ESTADO1   0x000026    program     static C:\Users\suxo\Desktop\52\p52.asm
+            LOOP_ESTADO_1   0x000029    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  ESTADO2   0x000038    program     static C:\Users\suxo\Desktop\52\p52.asm
+            LOOP_ESTADO_2   0x00003b    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  ESTADO3   0x000049    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  ESTADO4   0x00004c    program     static C:\Users\suxo\Desktop\52\p52.asm
+                  retardo   0x00004f    program     static C:\Users\suxo\Desktop\52\p52.asm
+                     tres   0x000051    program     static C:\Users\suxo\Desktop\52\p52.asm
+                      dos   0x000053    program     static C:\Users\suxo\Desktop\52\p52.asm
+                      uno   0x000055    program     static C:\Users\suxo\Desktop\52\p52.asm
+
+

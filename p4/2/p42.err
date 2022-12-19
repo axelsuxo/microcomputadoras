@@ -1,0 +1,26 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPASM SUITE\P16F877A.INC 37 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 3 : Found label after column 1. (valor1)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 4 : Found label after column 1. (valor2)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 5 : Found label after column 1. (valor3)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 6 : Found label after column 1. (cte1)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 7 : Found label after column 1. (cte2)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 8 : Found label after column 1. (cte3)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 10 : Found label after column 1. (v0)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 11 : Found label after column 1. (v1)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 12 : Found label after column 1. (v2)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 13 : Found label after column 1. (v3)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 14 : Found label after column 1. (v4)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 15 : Found label after column 1. (v5)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 17 : Found label after column 1. (c0)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 18 : Found label after column 1. (c1)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 19 : Found label after column 1. (c2)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 20 : Found label after column 1. (c3)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 21 : Found label after column 1. (c4)
+Warning[207] C:\USERS\SUXO\DESKTOP\2\P42.ASM 22 : Found label after column 1. (c5)
+Message[302] C:\USERS\SUXO\DESKTOP\2\P42.ASM 33 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SUXO\DESKTOP\2\P42.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SUXO\DESKTOP\2\P42.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SUXO\DESKTOP\2\P42.ASM 87 : Using default destination of 1 (file).
+Message[305] C:\USERS\SUXO\DESKTOP\2\P42.ASM 157 : Using default destination of 1 (file).
+Message[305] C:\USERS\SUXO\DESKTOP\2\P42.ASM 159 : Using default destination of 1 (file).
+Message[305] C:\USERS\SUXO\DESKTOP\2\P42.ASM 161 : Using default destination of 1 (file).

@@ -1,0 +1,50 @@
+MPLINK 4.37, Linker
+Linker Map File - Created Mon Oct 25 01:22:53 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000005    program   0x00003e
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000005    0x000023      
+            32 out of 8453 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 ESTADO_1   0x00000b    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                 ESTADO_2   0x00000e    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                 ESTADO_3   0x000011    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                 ESTADO_4   0x000014    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                   INICIO   0x000005    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                      dos   0x00001b    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                  retardo   0x000017    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                     tres   0x000019    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                      uno   0x00001d    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                 ESTADO_1   0x00000b    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                 ESTADO_2   0x00000e    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                 ESTADO_3   0x000011    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                 ESTADO_4   0x000014    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                  retardo   0x000017    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                     tres   0x000019    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                      dos   0x00001b    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+                      uno   0x00001d    program     static C:\Users\suxo\Desktop\p3\10\p310.asm
+
+

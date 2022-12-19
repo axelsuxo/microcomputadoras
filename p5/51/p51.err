@@ -1,0 +1,13 @@
+Warning[205] C:\USERS\SUXO\DESKTOP\51\P51.ASM 1 : Found directive in column 1. (PROCESSOR)
+Warning[215] C:\USERS\SUXO\DESKTOP\51\P51.ASM 1 : Processor superseded by command line.  Verify processor symbol.
+Warning[205] C:\USERS\SUXO\DESKTOP\51\P51.ASM 2 : Found directive in column 1. (INCLUDE)
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPASM SUITE\P16F877A.INC 37 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[205] C:\USERS\SUXO\DESKTOP\51\P51.ASM 32 : Found directive in column 1. (ORG)
+Warning[203] C:\USERS\SUXO\DESKTOP\51\P51.ASM 33 : Found opcode in column 1. (GOTO)
+Warning[205] C:\USERS\SUXO\DESKTOP\51\P51.ASM 34 : Found directive in column 1. (ORG)
+Message[302] C:\USERS\SUXO\DESKTOP\51\P51.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SUXO\DESKTOP\51\P51.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SUXO\DESKTOP\51\P51.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SUXO\DESKTOP\51\P51.ASM 176 : Using default destination of 1 (file).
+Message[305] C:\USERS\SUXO\DESKTOP\51\P51.ASM 178 : Using default destination of 1 (file).
+Message[305] C:\USERS\SUXO\DESKTOP\51\P51.ASM 180 : Using default destination of 1 (file).
