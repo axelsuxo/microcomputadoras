@@ -1,0 +1,68 @@
+MPLINK 4.37, Linker
+Linker Map File - Created Tue Nov 09 05:51:36 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000005    program   0x0000b8
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000005    0x000060      
+            93 out of 8453 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+             ANTIHORARIO1   0x000032    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+             ANTIHORARIO2   0x000039    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                     DATO   0x00000f    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    DATO0   0x00001b    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                   DATO00   0x000021    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    DATO1   0x00001e    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                 DETENIDO   0x000040    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                      DOS   0x000058    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                 HORARIO1   0x000024    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                 HORARIO2   0x00002b    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                   INICIO   0x000005    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    PASO1   0x000044    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    PASO2   0x000048    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    PASO3   0x00004c    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    PASO4   0x000050    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                  RETARDO   0x000054    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                     TRES   0x000056    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                      UNO   0x00005a    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                     DATO   0x00000f    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    DATO0   0x00001b    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    DATO1   0x00001e    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                   DATO00   0x000021    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                 HORARIO1   0x000024    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                 HORARIO2   0x00002b    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+             ANTIHORARIO1   0x000032    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+             ANTIHORARIO2   0x000039    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                 DETENIDO   0x000040    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    PASO1   0x000044    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    PASO2   0x000048    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    PASO3   0x00004c    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                    PASO4   0x000050    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                  RETARDO   0x000054    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                     TRES   0x000056    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                      DOS   0x000058    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+                      UNO   0x00005a    program     static C:\Users\suxo\Desktop\52\p52ale2.asm
+
+

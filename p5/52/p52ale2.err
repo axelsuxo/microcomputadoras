@@ -1,0 +1,26 @@
+Message[302] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 25 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 27 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 33 : Found label after column 1. (DATO)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 47 : Found label after column 1. (DATO0)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 51 : Found label after column 1. (DATO1)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 55 : Found label after column 1. (DATO00)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 59 : Found label after column 1. (HORARIO1)
+Message[305] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 64 : Using default destination of 1 (file).
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 67 : Found label after column 1. (HORARIO2)
+Message[305] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 72 : Using default destination of 1 (file).
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 75 : Found label after column 1. (ANTIHORARIO1)
+Message[305] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 80 : Using default destination of 1 (file).
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 83 : Found label after column 1. (ANTIHORARIO2)
+Message[305] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 88 : Using default destination of 1 (file).
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 91 : Found label after column 1. (DETENIDO)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 96 : Found label after column 1. (PASO1)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 101 : Found label after column 1. (PASO2)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 106 : Found label after column 1. (PASO3)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 111 : Found label after column 1. (PASO4)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 117 : Found label after column 1. (RETARDO)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 120 : Found label after column 1. (TRES)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 123 : Found label after column 1. (DOS)
+Warning[207] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 126 : Found label after column 1. (UNO)
+Message[305] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 127 : Using default destination of 1 (file).
+Message[305] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 129 : Using default destination of 1 (file).
+Message[305] C:\USERS\SUXO\DESKTOP\52\P52ALE2.ASM 131 : Using default destination of 1 (file).
